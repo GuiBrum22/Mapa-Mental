@@ -1,6 +1,7 @@
 # Mapa-Mental
 
 ```mermaid
+
 graph LR;
     A["📌 Teorias Sociológicas Clássicas"] -->|1| B["📚 Durkheim - Fatos Sociais"] 
     B --> B1["📖 Definição: Regras coletivas que moldam o comportamento individual"] 
@@ -49,6 +50,5 @@ graph LR;
 
     %% Estilizando os sub-nós (Definição, Características, Exemplos)
     classDef subnode fill:#ffffff,stroke:#888,stroke-width:1.5px,font-size:12px;
-    class B1,B2,B3,B4,B5,B6,B7,B8,
-          C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,
-          D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12 subnode;
+    class B1,B2,B3,B4,B5,B6,B7,B8,C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12 subnode;
+
